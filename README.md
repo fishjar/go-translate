@@ -2,7 +2,7 @@
 
 命令行翻译工具
 
-## 翻译系列项目
+## 翻译系列自用项目
 
 - 后端翻译服务（smart-translator）： https://github.com/fishjar/smart-translator
 - 谷歌浏览器翻译插件（mihuan-translate）： https://github.com/fishjar/mihuan-translate
